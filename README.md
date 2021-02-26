@@ -7,3 +7,18 @@ It's rather a lightweight wrapper that encapsulates your training logic in a sin
 It's called Tez and we'll see it today in action on a fun multi-label text classification problem. Let's jump right in.
 
 ![](./images/goemotions.png)
+
+### Things that will be covered
+
+- Using the Datasets library to load and manipulate go_emotions data
+- Defining the training pipeline with Tez
+- Training a SqueezeBert lightweight model for a multi-label classification problem and reaching +0.9 AUC on validation and test data
+
+### This that will be done next (PR are welcome)
+
+- Deploying the model
+- Crafting a small UI
+
+### Link to the trained model
+
+[Here](https://goemotions-with-tez.s3.eu-west-3.amazonaws.com/model.bin)
