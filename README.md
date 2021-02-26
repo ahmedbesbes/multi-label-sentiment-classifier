@@ -21,4 +21,4 @@ It's called Tez and we'll see it today in action on a fun multi-label text class
 
 ### Link to the trained model
 
-[Here](https://goemotions-with-tez.s3.eu-west-3.amazonaws.com/model.bin)
+[Download it here](https://goemotions-with-tez.s3.eu-west-3.amazonaws.com/model.bin)
