@@ -17,7 +17,7 @@ It's called Tez and we'll see it today in action on a fun multi-label text class
 ### Things that will be done next (PR are welcome)
 
 - Deploying the model
-- Crafting a small UI with React
+- Crafting a small UI with React or Streamlit
 
 ### Link to the trained model
 
